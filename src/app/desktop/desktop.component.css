@@ -1,0 +1,79 @@
+p
+{
+     
+    margin-top:20px;
+    margin-left: 490px;
+    font-size: 20px;
+    font-weight: bold;
+    color: red;
+}
+box 
+{
+    text-align: center;
+    margin-left: 70px;
+}
+button
+{
+    height: 20px;
+}
+input
+{
+    width:110px;
+    margin-left: 575px;
+    height: 18px;
+}
+
+.back
+{
+     
+    background: url("/assets/ques.jpg") no-repeat fixed center;
+    background-size: 100% 110%;
+    height: 570px;
+    margin-top:-15px;
+
+}
+
+footer
+{
+    text-align: center;
+    
+    font-size: 20px;
+    color: red;
+    background: #F3F1EF;
+    text-shadow: -1px 0 black;
+    margin-top:4px;
+    font-size:20px;
+    padding:2px;
+}
+
+#mess
+{
+    color: red;
+    font-size: 17px;
+    margin-left: 500px;
+    text-shadow: 0px 0 black;
+    
+
+}
+
+h1
+{
+    text-align: center;
+    font-size: 24px;
+    font-family: 'Aladin',cursive;
+    color:#95499D;
+    text-shadow: 0px 0px 1px rgb(0, 0, 0.5);
+    background: #F3F1EF;
+    margin-top:-7px;
+     
+ 
+    
+}
+
+#lin
+{
+    margin-left: 580px;
+}
+
+
+  
