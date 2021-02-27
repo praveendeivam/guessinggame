@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-
+ 
 @Component({
   selector: 'app-desktop',
   templateUrl: './desktop.component.html',
@@ -11,14 +11,16 @@ export class DesktopComponent implements OnInit {
   message:string="";
   gcount:number=1;
   convert:number=0;
-  constructor() { }
+   
+  
+//  constructor() { }
 
   check(received:string)
   {
  
     this.convert=parseInt(received);
    // console.log(this.convert);
-   console.log(this.num);
+   //console.log(this.num);
      if(this.convert<=100&&this.convert>0)
       {
         if(this.convert>this.num)
@@ -44,7 +46,12 @@ export class DesktopComponent implements OnInit {
               }
       
   }
-  ngOnInit(): void {
+  
+ 
+
+
+  ngOnInit() {
+   
   }
 
 }

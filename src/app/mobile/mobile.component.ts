@@ -19,7 +19,7 @@ export class MobileComponent implements OnInit {
  
     this.convert=parseInt(received);
     //console.log(this.convert);
- console.log(this.num);
+ //console.log(this.num);
      if(this.convert<=100&&this.convert>0)
       {
         if(this.convert>this.num)
