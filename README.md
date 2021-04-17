@@ -4,7 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 # Working link
 
-https://praveenvirat18.github.io/guessinggame/desktop
+https://praveenvirat18.github.io/guessinggame
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
